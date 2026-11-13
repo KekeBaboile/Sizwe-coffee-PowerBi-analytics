@@ -56,15 +56,3 @@ To avoid circular relationships and many-to-many join distortion between sales l
 
 
 
-## Repository Deliverables
-
-* Sizwe_Commercial_YourName.pbix: Complete Power BI Desktop report file.
-* Sizwe_Executive_Memo.pdf: 1-Page financial briefing addressed to executive leadership.
-* Sizwe_Model_Note.docx: 1-Page technical documentation detailing model architecture and schema decisions.
-
-
-## How to View This Project
-
-1. Download and install Power BI Desktop.
-2. Clone or download this repository.
-3. Open Sizwe_Commercial_YourName.pbix directly in Power BI Desktop.
